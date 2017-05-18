@@ -1,5 +1,5 @@
 # ft_db
-ft_db is a self-made database. It demonstrates abilities to not only creating and destroying persistent database and tables, but also adding, sorting, and removing entries.
+ft_db is a collaborational project between David Huang and Yangyang Herrera. It demonstrates abilities to not only creating and destroying persistent database and tables, but also adding, sorting, and removing entries.
 
 ## Installation
 1. Dowload this repository to your local file
